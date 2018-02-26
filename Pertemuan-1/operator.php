@@ -1,3 +1,4 @@
+<h3>Percobaan Operator</h3>
 <?php
 	$panjang = 4;
 	$lebar = 3;
@@ -9,5 +10,5 @@
 	echo $panjang - $lebar; echo "<br>";
 
 	$panjang *= $lebar;
-	echo "Panjang: $panjang* ";
+	echo "Panjang: $panjang";
 ?>
